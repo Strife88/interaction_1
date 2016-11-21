@@ -1,0 +1,34 @@
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ZuoraMoudle.com" resolutions="1x" timestamp="1479003791647">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="3816047031" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pasted image 191x77.jpg" crc="4290323743" seo="true" ref="index"/>
+    <file name="9-keys-icons-01.svg" crc="289952120" seo="true" ref="index"/>
+    <file name="9-keys-icons-01_poster_.png" crc="3804205004" ref="index"/>
+    <file name="9-keys-icons-03.svg" crc="54475130" seo="true" ref="index"/>
+    <file name="9-keys-icons-03_poster_.png" crc="3992671533" ref="index"/>
+    <file name="9-keys-icons-04.svg" crc="43289495" seo="true" ref="index"/>
+    <file name="9-keys-icons-04_poster_.png" crc="263583962" ref="index"/>
+    <file name="9-keys-icons-05.svg" crc="206336181" seo="true" ref="index"/>
+    <file name="9-keys-icons-05_poster_.png" crc="4072354775" ref="index"/>
+    <file name="9-keys-icons-06.svg" crc="73580392" seo="true" ref="index"/>
+    <file name="9-keys-icons-06_poster_.png" crc="4226952968" ref="index"/>
+    <file name="9-keys-icons-07.svg" crc="3775216917" seo="true" ref="index"/>
+    <file name="9-keys-icons-07_poster_.png" crc="4201069077" ref="index"/>
+    <file name="9-keys-icons-08.svg" crc="3859161369" seo="true" ref="index"/>
+    <file name="9-keys-icons-08_poster_.png" crc="86950663" ref="index"/>
+    <file name="9-keys-icons-09.svg" crc="175060417" seo="true" ref="index"/>
+    <file name="9-keys-icons-09_poster_.png" crc="4079814565" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4007728277" seo="true" mt="1479002862192" redirect="true"/>
+</manifest>
